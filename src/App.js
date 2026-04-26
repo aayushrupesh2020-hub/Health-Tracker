@@ -2,9 +2,9 @@ import React from "react";
 
 function App() {
   return (
-    <div>
-      <h1>Health Tracker</h1>
-      <p>Your app is working 🚀</p>
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
+      <h1>Health Tracker 🚀</h1>
+      <p>Track your health easily!</p>
     </div>
   );
 }
